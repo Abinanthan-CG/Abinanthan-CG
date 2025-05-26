@@ -31,7 +31,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abinanthan-CG&show_icons=true&theme=tokyonight" width="47%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abinanthan-CG&theme=tokyonight" width="500" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abinanthan-CG&theme=tokyonight" width="400" />
 </div>
 
 ---
