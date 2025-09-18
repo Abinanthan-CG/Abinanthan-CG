@@ -10,7 +10,6 @@
 ### 🚀 About Me
 
 - 🎓 B.Tech in AI & Data Science  
-- 💡 Founder @ Code Genesis – “Born from nothingness, rewrite the universe”  
 - 🔍 Exploring Machine Learning, Python, and Creative AI  
 - 📚 Always learning and building along the way  
 
